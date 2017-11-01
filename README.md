@@ -609,7 +609,7 @@ GPLTGPLTGLTGLGLL<br>
 [回到顶部](#readme)
 # L1-027. 出租
 下面是新浪微博上曾经很火的一张图：<br>
-![photo](http://nos.patest.cn/li_o9webi2nzmq.jpg)<br>
+ ![photo](http://nos.patest.cn/li_o9webi2nzmq.jpg) <br>
 一时间网上一片求救声，急问这个怎么破。其实这段代码很简单，index数组就是arr数组的下标，index[0]=2 对应 arr[2]=1，index[1]=0 对应 arr[0]=8，index[2]=3 对应 arr[3]=0，以此类推…… 很容易得到电话号码是18013820100。<br>
 
 本题要求你编写一个程序，为任何一个电话号码生成这段代码 —— 事实上，只要生成最前面两行就可以了，后面内容是不变的。<br>
